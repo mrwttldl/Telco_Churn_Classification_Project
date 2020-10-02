@@ -33,9 +33,9 @@ I applied classification algorithms to the Telco Churn dataset where I did explo
 
 ## Algorithms Content
 
-K-Nearest Neighbors
-Decision Trees
-Random Forest
-Support Vector Machine
-XGBoost
-LightGbm
+* K-Nearest Neighbors
+* Decision Trees
+* Random Forest
+* Support Vector Machine
+* XGBoost
+* LightGbm
