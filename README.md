@@ -7,7 +7,7 @@ Customer retention, on the other hand, is generally more cost-effective as youâ€
 
 I applied classification algorithms to the Telco Churn dataset where I did exploratory data analysis.
 
-* The telco.csv file in this folder is the latest version of the dataset where I do my EDA studies on the dataset I downloaded from kaggle.
+The telco.csv file in this folder is the latest version of the dataset where I do my EDA studies on the dataset I downloaded from kaggle.
 
 ## Dataset Information
 
