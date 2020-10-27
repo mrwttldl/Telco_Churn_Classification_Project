@@ -40,4 +40,4 @@ The telco2.csv file in this folder is the latest version of the dataset where I 
 * Random Forest
 * Support Vector Machine
 * XGBoost
-* LightGbm
+* Naive Bayes
