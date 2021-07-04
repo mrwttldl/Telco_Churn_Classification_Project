@@ -1,8 +1,8 @@
-# :calling: Telco Churn Classification Project
+## :calling: Telco Churn Classification Project
 
 ![](https://content.webengage.com/wp-content/uploads/sites/4/2019/07/Rating-01.gif)
 
- :file_folder:  Business Problem
+## :file_folder:  Business Problem
 
 Simply, customer churn occurs when customers or subscribers stop doing business with a company or service. Also known as customer attrition, customer churn is a critical metric because it is much less expensive to retain  existing customers than it is to acquire new customers – earning business from new customers means working leads all the way through the sales funnel, utilizing your marketing and sales resources throughout the process. 
 Customer retention, on the other hand, is generally more cost-effective as you’ve already earned the trust and loyalty of existing customers.
@@ -11,7 +11,7 @@ I applied classification algorithms to the Telco Churn dataset where I did explo
 
 The telco2.csv file in this folder is the latest version of the dataset where I do my EDA studies on the dataset I downloaded from kaggle.
 
-:white_check_mark: Dataset Information
+## :white_check_mark: Dataset Information
 
 1. **customerID: 0**: Customer ID 
 1. **gender**: Whether the customer is a male or a female
@@ -35,7 +35,7 @@ The telco2.csv file in this folder is the latest version of the dataset where I 
 1. **TotalCharges**: the amount paid by the person per month
 1. **Churn**:  (Yes, No)
 
-:link: Algorithms Content
+## :link: Algorithms Content
 
 * K-Nearest Neighbors
 * Decision Trees
